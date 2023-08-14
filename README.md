@@ -14,16 +14,16 @@ Users can add items to their wishlist, mark items as completed, and remove items
 
 
 ## Usage
-Enter the name of the item you want to add to your wishlist in the input field.
-Click the "Add" button to add the item to your wishlist.
-To mark an item as completed, click the checkbox next to the item.
-To remove an item from your wishlist, click the "Delete" button next to the item.
+-Enter the name of the item you want to add to your wishlist in the input field.
+-Click the "Add" button to add the item to your wishlist.
+-To mark an item as completed, click the checkbox next to the item.
+-To remove an item from your wishlist, click the "Delete" button next to the item.
 
 
 ## Technologies Used
-HTML
-CSS (Custom styling and external styles)
-JavaScript
+-HTML
+-CSS (Custom styling and external styles)
+-JavaScript
 
 
 ## Screenshots
@@ -32,5 +32,5 @@ JavaScript
 
 
 ## Acknowledgements
-CSS styling inspired by uilight.netlify.app.
-Icon font provided by Google Fonts: Material Icons Outlined.
+-CSS styling inspired by uilight.netlify.app.
+-Icon font provided by Google Fonts: Material Icons Outlined.
